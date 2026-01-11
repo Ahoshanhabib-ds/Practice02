@@ -1,0 +1,22 @@
+.image-box img{
+    width: 40%;
+    margin-top: 20px;
+    display: block;
+    border-radius: 20px;
+    mix-blend-mode: color-burn;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: aqua;
+}
+
+.image-box a{
+    font-size: 1.5em;
+    text-decoration: none;
+    margin-top: 30px;
+    display: block;
+}
+
+ 
+
