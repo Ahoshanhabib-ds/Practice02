@@ -34,4 +34,21 @@ a:hover{
     width: 15%;
 }
  
+fieldset legend{
+    text-align: center;
+}
 
+fieldset label{
+    display: block;
+    margin: 5px;
+}
+
+.Form{
+    margin-top: 20px;
+
+}
+
+fieldset button{
+    display: block;
+    margin-top: 5px;
+}
