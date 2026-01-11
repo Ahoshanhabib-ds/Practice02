@@ -1,0 +1,46 @@
+body{
+    background-color: cadetblue;
+}
+
+section label{
+    display: block;
+    margin: 20px;
+
+}
+
+.story{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.option{
+    margin-top: 10px;
+    margin-bottom: 100px;
+    font-size: 1.25em;
+    border-radius: 15cap;
+    
+}
+
+.option:hover{
+    background-color: aqua;
+}
+
+
+
+button:hover{
+   
+    background-color: aqua;
+
+}
+
+ button{
+    margin: 10px;
+    border-radius: 15cap;
+    font-size: 1.25em;
+    
+}
+
+
