@@ -1,0 +1,75 @@
+body{
+    margin: 20px 12px;
+}
+
+.card-section h2{
+    text-align: center;
+    
+}
+
+.card-section p{
+    font-size: 20px;
+    font-style: italic;
+    margin-top: 50px;
+    
+}
+
+
+.card img{
+    width: 400px;
+    border-radius: 3cap;
+}
+
+.card-container p{
+    font-size: 1.25em;
+    text-align: justify;
+}
+
+.card-container h4{
+    font-style: italic;
+    font-weight: 100px;
+    margin-top: -10px;
+}
+
+button{
+    font-size: 1.25em;
+    border-radius: 2cap;
+    
+    
+}
+
+button:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
+
+.card{
+    border: 2px solid green;
+    max-width: 400px;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.card:hover{
+    background-color:blanchedalmond;
+}
+
+.card-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    align-items: stretch;
+}
+
+.card button{
+    margin-top: auto;
+    align-self: flex-start;
+}
+
+footer{
+    padding-top: 100px;
+    color: brown;
+}
